@@ -1,0 +1,29 @@
+.login {
+  background-color: #ffffff;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.login .text-wrapper {
+  color: #000000;
+  font-family: "Gmarket Sans TTF-Bold", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 518px;
+  white-space: nowrap;
+  width: 366px;
+}
+
+.login .kakao-login {
+  height: 45px;
+  left: 38px;
+  position: absolute;
+  top: 704px;
+  width: 300px;
+}
